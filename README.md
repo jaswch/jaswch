@@ -5,6 +5,7 @@
 - I like programming microcontrollers and hacking them to do cool things.
 - 🔭 I’m currently working on macos-web
 - 🌱 I’m currently learning Java and web dev
+- ⚡ Fun fact: My name starts with 'J' and Java and JavaScript also start with 'J' which are also my favourite languages.
 <!--
 **jaswch/jaswch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

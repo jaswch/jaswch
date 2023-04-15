@@ -1,7 +1,7 @@
 ![Picture](https://user-images.githubusercontent.com/10300504/226830685-f1dc7e5c-e015-4bde-ab65-602862afc262.png)
 
 
-### Hi there 👋
+### Hi there 👋, I'm Jaswanth Venkata Sai Chennu
 - I like programming microcontrollers and hacking them to do cool things.
 - 🔭 I’m currently working on macos-web
 - 🌱 I’m currently learning Java and web dev

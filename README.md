@@ -3,9 +3,8 @@
 
 ### Hi there 👋, I'm Jaswanth Venkata Sai Chennu
 - I like programming microcontrollers and hacking them to do cool things.
-- 🔭 I’m currently working on macos-web,SwiftyGPIO and trying to run swift programming on a raspberry pi pico
-- 🌱 I’m currently learning ML and web dev
-- ⚡ Fun fact: My name starts with 'J' JavaScript also starts with 'J' which is my favourite language.
+- 🔭 I’m currently working on macos-web, SwiftyGPIO, trying to run swift programming on a raspberry pi pico and porting ubuntu touch to redmi 3
+- 🌱 I’m currently learning swift(to port to microcontrollers) and c,c++ in depth
 <!--
 **jaswch/jaswch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

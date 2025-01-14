@@ -1,4 +1,6 @@
-# 💫 About Me:
+![Picture](https://user-images.githubusercontent.com/10300504/226830685-f1dc7e5c-e015-4bde-ab65-602862afc262.png)
+
+# Hey there 👋 I'm Jaswanth Venkata Sai Chennu
 🙂 I like programming microcontrollers and hacking them to do cool things.<br>🔭 I’m currently working on OpenTimeWatch-Project and porting ubuntu touch to redmi 3<br>🌱 I’m currently learning java, c/c++ in depth
 
 

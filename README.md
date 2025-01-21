@@ -14,7 +14,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaswch&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswch&label=Profile%20views&color=0e75b6&style=flat" alt="jaswch" /> </p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

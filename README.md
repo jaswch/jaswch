@@ -9,3 +9,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaswch&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswch&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=jaswch&theme=react)](https://github.com/jaswch/github-readme-activity-graph)

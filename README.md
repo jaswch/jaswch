@@ -1,7 +1,7 @@
 ![Picture](https://user-images.githubusercontent.com/10300504/226830685-f1dc7e5c-e015-4bde-ab65-602862afc262.png)
 
 # Hey there 👋 I'm Jaswanth Venkata Sai Chennu
-🙂 I like programming microcontrollers and trying make them do cool things.
+🙂 I'm a high school student who likes programming microcontrollers and trying to learn new technologies
 <br>
 🔭 I’m currently working on OpenTimeWatch-Project and attempting to run Arduino libraries and syntax on swift embedded
 <br>

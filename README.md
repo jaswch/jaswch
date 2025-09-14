@@ -3,9 +3,9 @@
 # Hey there 👋 I'm Jaswanth Venkata Sai Chennu
 🙂 I'm a high school student who likes programming microcontrollers and trying to learn new technologies
 <br>
-🔭 I’m currently working on OpenTimeWatch-Project and attempting to run Arduino libraries and syntax on swift embedded
+🔭 I’m currently working on OpenTimeWatch-Project
 <br>
-🌱 I’m currently learning java, c/c++ and swift
+🌱 I’m currently learning java
 
 
 # 💻 Tech Stack:
